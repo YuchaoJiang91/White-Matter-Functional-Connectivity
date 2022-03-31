@@ -1,6 +1,6 @@
 # White-Matter-Functional-Connectivity
 
-These scripts performs K-means clustering of white matter voxels based on BOLD-fMRI within white matter voxels.
+These scripts perform K-means clustering of white matter voxels based on BOLD-fMRI within white matter voxels.
 Ps: These scripts require Matlab and SPM to be installed. 
 
 Further details can be found in our papers.
@@ -20,5 +20,7 @@ Original methods are provided in the paper "Evidence for functional networks wit
 
 Please cite above paper.
 
+# Questions, suggestions and improvements
 
+Email: yuchaojiang@fudan.edu.cn
 
