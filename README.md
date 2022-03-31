@@ -1,7 +1,7 @@
 # White-Matter-Functional-Connectivity
 
 These scripts perform K-means clustering of white matter voxels based on BOLD-fMRI within white matter voxels.
-Ps: These scripts require Matlab and SPM to be installed. 
+Ps: These scripts require Matlab and SPM (https://www.fil.ion.ucl.ac.uk/spm/) to be installed. 
 
 Further details can be found in our papers.
 
