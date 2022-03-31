@@ -4,7 +4,7 @@ These scripts perform K-means clustering of white matter voxels based on BOLD-fM
 Ps: These scripts require Matlab and SPM (https://www.fil.ion.ucl.ac.uk/spm/) to be installed. 
 
 ![1](https://user-images.githubusercontent.com/102531632/161032619-cb677dca-10f6-4be3-a09f-cdec2e148d7e.jpg)
-                    Figure 1. Clustering algorithm based on white matter bold-FMRI signal correlation
+                    [Figure 1. Clustering algorithm based on correlation matrix of white matter BOLD-fMRI signals]
 
 
 Further details can be found in our papers.
